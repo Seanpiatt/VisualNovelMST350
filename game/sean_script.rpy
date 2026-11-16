@@ -30,7 +30,7 @@ transform far_right:
     xcenter 0.8
     yalign 1.0
 
-label start:
+label sean_start:
 
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
@@ -257,7 +257,8 @@ label good_ending:
     y "{i}You open the spinached paper and the figures are gone.{i}"
     y "{i}You are left wondering where they will go next.{i}"
     
-    return
+    jump ibrahim_start
+
         
 label bad_ending:
     scene bg sean

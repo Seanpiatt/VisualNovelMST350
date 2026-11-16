@@ -65,4 +65,4 @@ label ibrahim_start:
     "They jump through the portal in the crack of the floor."
     "Where will their adventure lead to next?"
 
-    return
+    jump sean_start

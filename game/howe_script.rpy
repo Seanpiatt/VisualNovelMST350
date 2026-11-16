@@ -12,7 +12,7 @@ define m = Character("Mysterious Artist")
 # and https://www.chosic.com/download-audio/54471/ 
 # The game starts here.
 
-label start:
+label howe_start:
 
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
@@ -136,4 +136,4 @@ label start:
 
     # This ends the game.
 
-    return
+    jump ibrahim_start

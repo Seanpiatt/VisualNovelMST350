@@ -208,4 +208,4 @@ label bench:
     with fade
     "Another portal awaits their presence."
 
-    return
+    jump howe_start
