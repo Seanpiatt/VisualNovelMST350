@@ -1,0 +1,17 @@
+CHARACTER SPRITES
+rowan sad cyan
+rowan neutral cyan
+rowan neutral talking cyan
+rowan joy cyan
+rowan happy talking cyan
+sam sad cyan
+sam sad talking cyan
+sam joy cyan
+sam happy talking cyan
+sam stern talking cyan
+
+BACKGROUNDS
+black screen cyan
+grey screen cyan
+white screen cyan
+portal cyan
