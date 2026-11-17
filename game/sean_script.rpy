@@ -257,7 +257,7 @@ label good_ending:
     y "{i}You open the spinached paper and the figures are gone.{i}"
     y "{i}You are left wondering where they will go next.{i}"
     
-    jump ibrahim_start
+    jump austin_start
 
         
 label bad_ending:
@@ -299,7 +299,8 @@ label bad_ending:
     "They both jump in."
     "Where will their adventure lead to next?"
     play sound "page sean.mp3" volume 0.4
-    return
+
+    jump austin_start
 
 
 
